@@ -354,7 +354,7 @@ body.menu-expanded button path{
     margin-bottom: 6rem;
 }
 
-#about .content img{
+#about .col-b img{
     height: 29rem;
     width: 33rem;
 }
@@ -382,7 +382,7 @@ body.menu-expanded button path{
     gap: 0.8rem;
 }
 
-#contact .content img{
+#contact .col-b img{
     width: 32rem;
     height: 21rem;
 }
